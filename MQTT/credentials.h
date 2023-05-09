@@ -1,0 +1,9 @@
+#define SECRET_SSID ""
+#define SECRET_PASS ""
+#define BROKER "test.mosquitto.org"
+#define PORT 1883
+#define TEMP_TOPIC "tempature_topic"
+#define HUM_TOPIC "humidity_topic"
+#define SOIL_TOPIC "soil_topic"
+#define GAZ_TOPIC "gaz_topic"
+#define RAIN_TOPIC "rain_topic"
